@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/ce50efc2-531a-419f-add7-1c2ba07e2a49)
-
 <h1 align="center">Hi 👋, I'm Bhavish.k</h1>
 <h3 align="center">I’m passionate about exploring new ideas and expanding my horizons. Always eager to learn more.</h3>
 
@@ -25,6 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavish-cs&show_icons=true&locale=en&layout=compact" alt="bhavish-cs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavish-cs&show_icons=true&locale=en" alt="bhavish-cs" /></p>
-![250366610-0eefb3d1-190e-4d87-88a9-98877b37a9f2](https://github.com/user-attachments/assets/0717b87a-6e69-4f88-ab24-d299950b4a6c)
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavish-cs&" alt="bhavish-cs" /></p>
