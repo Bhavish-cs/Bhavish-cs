@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Bhavish.k</h1>
 <h3 align="center">I’m passionate about exploring new ideas and expanding my horizons. Always eager to learn more.</h3>
 
