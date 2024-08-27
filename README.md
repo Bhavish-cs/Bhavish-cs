@@ -1,4 +1,5 @@
-<video> align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavish-cs&" alt="bhavish-cs" </video>
+![image](https://github.com/user-attachments/assets/ce50efc2-531a-419f-add7-1c2ba07e2a49)
+
 <h1 align="center">Hi 👋, I'm Bhavish.k</h1>
 <h3 align="center">I’m passionate about exploring new ideas and expanding my horizons. Always eager to learn more.</h3>
 
