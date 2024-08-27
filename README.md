@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3006b455-21d6-4d3b-b365-b251f48da8d4)
+
 <h1 align="center">Hi 👋, I'm Bhavish.k</h1>
 <h3 align="center">I’m passionate about exploring new ideas and expanding my horizons. Always eager to learn more.</h3>
 
