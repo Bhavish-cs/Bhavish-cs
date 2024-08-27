@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavish-cs" alt="bhavish-cs" /></a> </p>
 
+- 🌱 I’m currently learning **BCA**
+
+- 💬 Ask me about **java,html,css,c,python**
+
+- 📫 How to reach me **bhavish.gowda2k4@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhavish k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavish k" height="30" width="40" /></a>
@@ -19,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavish-cs&show_icons=true&locale=en" alt="bhavish-cs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavish-cs&" alt="bhavish-cs" /></p>
-
